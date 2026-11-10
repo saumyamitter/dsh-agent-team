@@ -21,6 +21,7 @@
 
 | 月 | 工作项 | 一句话结论 | 链接 |
 | --- | --- | --- | --- |
+| 2026-11 | implicit-state-machines | 盘点129个源码文件，保留ledger与局部状态；修复读取/备用摘要取消及setup堆不足，2068用例通过，恢复缺口等风险保留验证边界。 | [README](archive/2026-11/implicit-state-machines/README.md) |
 | 2026-11 | dsh-0.2.2-adaptation | DSH `0.2.2-rc.1` 适配与认证：peer 移到 `>=0.2.2-rc.1 <0.2.3`，四处上游契约变化（设置图标官方槽位、窄屏 drawer、outline inset shadow、paint inset）适配完成，2022 用例与 13 条浏览器旅程全绿，独立验收判绿，随 0.2.7 发布。 | [README](archive/2026-11/dsh-0.2.2-adaptation/README.md) |
 | 2026-11 | agent-tools-context-rendering | 七工具的上下文呈现与拒绝恢复：01–06 交付并随 v0.2.6 发布，生产日志核对输出形状无回退；付费模型理解评测未获授权、按未运行归档。 | [README](archive/2026-11/agent-tools-context-rendering/README.md) |
 | 2026-11 | project-event-notifications | Member 提醒与 Project 定时/webhook 订阅 01–06 全部验收；真实 GitHub CI 事件已唤醒 Agent owner。 | [README](archive/2026-11/project-event-notifications/README.md) |
